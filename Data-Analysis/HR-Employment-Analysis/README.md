@@ -4,6 +4,7 @@
 -To explore the different distributions of workers in the company
 
 ## 2.	Dataset used:
+<a href=https://github.com/Dilen-dev/End-to-end-projects/blob/main/Data-Analysis/HR-Employment-Analysis/Human%20Resources.csv></a>
 
 ## 3.	⁉️Questions Answered(KPIs):
 •	The gender breakdown of employees in the company?<br>
