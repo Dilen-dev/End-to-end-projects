@@ -32,7 +32,6 @@ iv.	Data visualization – imported the files into a visualization tool (powerbi
 •	There is racial diversity, though predominantly White. Opportunities still exist to further broaden representation across underrepresented racial groups.<br>
 •	While the majority of employees are HQ-based, a notable proportion of the workforce is remote, indicating adaptability in work arrangements.<br>
 •	A high average tenure suggests good employee retention, job satisfaction, or limited turnover.<br>
-•	A high average tenure suggests good employee retention, job satisfaction, or limited turnover.<br>
 •	Steady growth post-2005 implies organizational expansion and sustainability.<br>
 •	Ohio is the central employment hub. Regional strategies should prioritize these areas for HR support and initiatives.<br>
 •	The bulk of the workforce lies between ages 25 and 54, showing a mature employee base. Recruitment efforts may need to target younger demographics for sustainability.<br>
