@@ -24,8 +24,8 @@ iii.	Data processing – created excel files that answers each of the above KPIs
 iv.	Data visualization – imported the files into a visualization tool (powerbi) and the produced visuals that demonstrate the KPIs in a clear and understandable manner for the user of the information.<br>
 
 ## 5.	Dashboard:
-<a href=https://github.com/Dilen-dev/End-to-end-projects/blob/main/Data-Analysis/HR-Employment-Analysis/Screenshot%202025-08-01%20010709.png></a>
-<a href=https://github.com/Dilen-dev/End-to-end-projects/blob/main/Data-Analysis/HR-Employment-Analysis/Screenshot%202025-08-01%20010735.png></a>
+<img src=https://github.com/Dilen-dev/End-to-end-projects/blob/main/Data-Analysis/HR-Employment-Analysis/Screenshot%202025-08-01%20010709.png></img>
+<img src=https://github.com/Dilen-dev/End-to-end-projects/blob/main/Data-Analysis/HR-Employment-Analysis/Screenshot%202025-08-01%20010735.png></img>
 
 ## 6.	📊Project Insights:
 •	Gender balance leans slightly toward male employees. Inclusion of non-conforming gender identities is minimal and may benefit from inclusion initiatives.<br>
