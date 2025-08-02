@@ -1,6 +1,6 @@
 # 📄HR EMPLOYEMENT ANALYSIS REPORT
 
-## 1.	Project Objective:
+## 1.	🎯Project Objective:
 -To explore the different distributions of workers in the company
 
 ## 2.	Dataset used:
@@ -40,20 +40,20 @@ iv.	Data visualization – imported the files into a visualization tool (powerbi
 •	Gender imbalance in Engineering suggests a need for diversity initiatives in technical recruitment and development programs.<br>
 
 ## 7.	📄Final Conclusion:
-	Key Strengths:<br>
+🔹	Key Strengths:<br>
 o	High employee retention across the board indicates strong internal engagement and stability<br>
 o	Diverse racial representation with meaningful presence across multiple demographic groups<br>
 o	Balanced gender distribution in most departments, especially outside technical fields<br>
 o	Robust regional representation (especially in Ohio) that can support regional hub for training and development<br>
 o	Adoption of remote work by 25% of the staff demonstrates organizational flexibility<br>
 
-	Key Areas for Improvements:<br>
+🔹	Key Areas for Improvements:<br>
 o	Gender balance in Technical roles: Engineering is heavily male-dominated, suggesting a need for proactive gender equity initiatives.<br>
 o	Low representation of non-conforming genders: this highlights a gap in inclusive hiring and culture.<br>
 o	High termination rates in certain departments: Auditing and Legal show unusually high attrition, warranting a deeper investigation into departmental stressors or leadership challenges.<br>
 o	Underrepresentation Young Talent(18-24): The lowest employee counts are in the youngest age bracket. Succession planning and early career recruitment strategies are crucial.<br>
 
-	Strategic Takeaway:<br>
+🔹	Strategic Takeaway:<br>
 While the organization demonstrates health in size, retention, and regional reach, long-term growth and equity will depend on:<br>
 o	Inclusive recruitment and retention practices<br>
 o	Addressing attrition in key departments<br>
