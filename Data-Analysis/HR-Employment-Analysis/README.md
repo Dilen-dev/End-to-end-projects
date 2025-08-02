@@ -1,11 +1,11 @@
-# HR EMPLOYEMENT ANALYSIS REPORT
+# 📄HR EMPLOYEMENT ANALYSIS REPORT
 
 ## 1.	Project Objective:
 -To explore the different distributions of workers in the company
 
 ## 2.	Dataset used:
 
-## 3.	 Questions Answered(KPIs):
+## 3.	⁉️Questions Answered(KPIs):
 •	The gender breakdown of employees in the company?<br>
 •	The race/ethnicity breakdown of employees in the company?<br>
 •	The age distribution of employees in the company?<br>
@@ -17,7 +17,7 @@
 •	How has the company's employee count changed over time based on hire and term dates?<br>
 •	What is the tenure distribution for each department?<br>
 
-## 4.	Process of building the project:
+## 4.	🪜Process of building the project:
 i.	Data cleaning – changed the date in the birthdate, hire date and term date columns are in the same format and ensured that they are in stored as date datatype<br>
 ii.	Data preparation – created a new column of age by subtracting the current date from the birthdate.<br>
 iii.	Data processing – created excel files that answers each of the above KPIs and ensure that only employees with ages above the legal working age are considered.<br>
@@ -27,7 +27,7 @@ iv.	Data visualization – imported the files into a visualization tool (powerbi
   
  
 
-## 6.	Project Insights:
+## 6.	📊Project Insights:
 •	Gender balance leans slightly toward male employees. Inclusion of non-conforming gender identities is minimal and may benefit from inclusion initiatives.<br>
 •	There is racial diversity, though predominantly White. Opportunities still exist to further broaden representation across underrepresented racial groups.<br>
 •	While the majority of employees are HQ-based, a notable proportion of the workforce is remote, indicating adaptability in work arrangements.<br>
@@ -40,8 +40,7 @@ iv.	Data visualization – imported the files into a visualization tool (powerbi
 •	Departments with high turnover may require workload assessments, improved support systems, or targeted retention strategies.<br>
 •	Gender imbalance in Engineering suggests a need for diversity initiatives in technical recruitment and development programs.<br>
 
-## 7.	Final Conclusion:
-
+## 7.	📄Final Conclusion:
 	Key Strengths:<br>
 o	High employee retention across the board indicates strong internal engagement and stability<br>
 o	Diverse racial representation with meaningful presence across multiple demographic groups<br>
