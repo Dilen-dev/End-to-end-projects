@@ -95,8 +95,8 @@ Churn Analysis/
 ---
 
 ## 📷 Visual Sneak Peek  
-<img src= ></img>
-<img src= ></img> 
+<img src=https://github.com/Dilen-dev/End-to-end-projects/blob/main/Data-Analysis/Churn-Analysis/Screenshot%202025-08-08%20204643.png></img>
+<img src=https://github.com/Dilen-dev/End-to-end-projects/blob/main/Data-Analysis/Churn-Analysis/Screenshot%202025-08-08%20204729.png></img> 
 
 ---
 
