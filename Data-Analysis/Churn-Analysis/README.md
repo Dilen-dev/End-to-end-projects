@@ -95,8 +95,8 @@ Churn Analysis/
 ---
 
 ## 📷 Visual Sneak Peek  
-![Prediction](Data & Resources/Background/Prediction.PNG)  
-![Summary](Data & Resources/Background/Summary.PNG)  
+<img src= ></img>
+<img src= ></img> 
 
 ---
 
